@@ -69,6 +69,7 @@ export default function ViewCodePage() {
    - Ensure animations are subtle yet engaging, enhancing the user experience without being overwhelming.
 
 3. **Color, Typography & Styling**
+   - give a sutable background for 100% width of screen and align every components properly with carious animations use glassmorphism effect accordingle to make it look good 
    - Maintain the same color scheme and typography as seen in the wireframe. If no exact colors are available, generate complementary colors to match the design.
    - Use proper font sizes, weights, and spacing to ensure readability and aesthetics.
    - Apply hover effects and color contrast for better usability.
