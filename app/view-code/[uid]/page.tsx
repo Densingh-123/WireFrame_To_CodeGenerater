@@ -94,7 +94,7 @@ export default function ViewCodePage() {
 7. **Interactivity & Functionality**
    - Add meaningful interactions (e.g., hover effects, animated buttons, smooth transitions, and click responses).
    - Ensure interactive elements are intuitive, engaging, and improve usability.
-   - Provide a button or an option to regenerate the code dynamically when clicking "Generate Code."
+   - give proper alignment and spacing to each component tomake it loog good
    - Ensure that the image gets replaced with generated code dynamically.
 
 8. **Single JSX File Output**
